@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font-family: 'Droid Serif', serif;
+  font-family: "Droid Serif", serif;
 }
 
 *, *::before, *::after {
